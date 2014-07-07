@@ -1,0 +1,4 @@
+MovieNight User Stories:
+
+As a user
+When I navigate to the home page
