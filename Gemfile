@@ -29,6 +29,8 @@ gem 'tmsapi'
 
 gem 'pry'
 
+gem 'twitter-bootstrap-rails', group: :assets
+
 gem 'dotenv-rails', groups: [:development, :test]
 
 # bundle exec rake doc:rails generates the API under doc/api.
