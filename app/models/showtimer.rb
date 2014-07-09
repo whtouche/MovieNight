@@ -1,0 +1,19 @@
+# require 'httparty'
+
+class Showtimer
+=begin
+  include HTTParty
+  base_uri 'http://data.tmsapi.com/'
+  default_params :apiKey => ENV['TMS_TOKEN']
+
+
+  def self.get_showings_by_zip(zip)
+    get('v1/movies/showings?startDate=2014-07-08&zip=#{zip}')
+  end
+=end
+TMS = TMSAPI::API.new :api_key => ENV['TMS_TOKEN']
+  def self.data(zip) # must be input as a 'string'
+    TMS.movies.theatres.showings({ :zip => "#{zip}" })
+  end
+  binding.pry
+end

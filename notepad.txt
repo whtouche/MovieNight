@@ -1,0 +1,5351 @@
+[{
+    "tmsId": "MV005317350000",
+    "rootId": "10372543",
+    "title": "22 Jump Street",
+    "titleLang": "en",
+    "shortDescription": "Officers Jenko and Schmidt begin to question their partnership while undercover at a local college.",
+    "longDescription": "Although they made their way through high school successfully, an investigation at a local college brings big changes for undercover officers Jenko (Channing Tatum) and Schmidt (Jonah Hill). When Jenko meets a kindred spirit on the football team and Schmidt infiltrates the bohemian art-major scene, both men begin to question their partnership. Not only do they have to crack the case, but now the two overgrown adolescents must learn how to behave like adults.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Comedy", "Action"],
+    "topCast": ["Jonah Hill", "Channing Tatum", "Peter Stormare"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10372543/p10372543_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "22 Jump Street (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://jumpstmovies.tumblr.com/",
+    "runTime": "PT01H52M",
+    "releaseDate": "2014-06-13",
+    "showtimes": [{
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:20"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:40"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:10"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:45",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:20",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:30",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:05",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134732&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134732&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134732&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134732&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134732&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005924700000",
+    "rootId": "10853605",
+    "title": "A Brony Tale",
+    "titleLang": "en",
+    "shortDescription": "Filmmaker Brent Hodge gives an inside view of the \"My Little Pony\" fan world.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "genres": ["Documentary"],
+    "preferredImage": {
+        "uri": "movies/generic/generic_movies_v5.png"
+    },
+    "releaseYear": 2014,
+    "runTime": "PT01H19M",
+    "showtimes": [{
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00",
+        "quals": "No Passes"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005612640000",
+    "rootId": "10661134",
+    "title": "Ai Weiwei: The Fake Case",
+    "titleLang": "en",
+    "shortDescription": "After his detention by the Chinese government, activist and artist Ai Weiwei faces a lawsuit.",
+    "longDescription": "In 2011, activist and conceptual artist Ai Weiwei is kidnapped and imprisoned by Chinese authorities. Following his release, he faces a lawsuit filed by the Chinese government.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "genres": ["Documentary"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10661134/p10661134_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Ai Weiwei: The Fake Case (2013)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2013,
+    "runTime": "PT01H26M",
+    "showtimes": [{
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:50"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T16:05"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:05"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:25"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005754470000",
+    "rootId": "10784308",
+    "title": "America",
+    "titleLang": "en",
+    "shortDescription": "Dinesh D'Souza examines America's past as the country stands at a crossroads.",
+    "longDescription": "Political commentator, author and filmmaker Dinesh D'Souza puts forth the notion that America's history is being replaced by another version in which plunder and exploitation are the defining characteristics. D'Souza also posits that the way the country understands the past will determine the future. Using historic re-enactments, D'Souza explores the lives and sacrifices of some of America's greatest heroes, including George Washington and Frederick Douglass.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Documentary"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10784308/p10784308_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "America (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "1.5"
+    },
+    "runTime": "PT01H43M",
+    "releaseDate": "2014-07-02",
+    "showtimes": [{
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139446&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139446&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139446&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139446&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139446&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005604180000",
+    "rootId": "10542968",
+    "title": "Begin Again",
+    "titleLang": "en",
+    "shortDescription": "A life-changing bond develops between a disgraced music producer and a talented singer.",
+    "longDescription": "Gretta (Keira Knightley) and her songwriting partner/lover Dave (Adam Levine) head for New York when he lands a record deal with a major label. However, Gretta is suddenly left on her own when Dave gives in to the temptations that come with his newfound success. Things take a turn for the better for her when Dan (Mark Ruffalo), a disgraced record executive, discovers Gretta performing in a club. A mutually life-changing bond forms between the pair as they work together on Gretta's first album.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Comedy drama", "Romance"],
+    "topCast": ["Keira Knightley", "Mark Ruffalo", "Hailee Steinfeld"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10542968/p10542968_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Begin Again (2013)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2013,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://beginagainfilm.com/",
+    "runTime": "PT01H44M",
+    "releaseDate": "2014-07-02",
+    "showtimes": [{
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:35",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T14:30",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T16:10",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T17:10",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:10",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:10",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:40",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:15"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:30"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:45"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:15"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=137588&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=137588&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=137588&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=137588&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=137588&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005835050000",
+    "rootId": "10815679",
+    "title": "Bobby Jasoos",
+    "titleLang": "en",
+    "shortDescription": "A woman (Vidya Balan) aspires to become Hyderabad's foremost detective.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "genres": ["Action"],
+    "topCast": ["Vidya Balan", "Ali Fazal", "Arjan Bajwa"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10815679/p10815679_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Bobby Jasoos (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "runTime": "PT02H01M",
+    "releaseDate": "2014-07-04",
+    "showtimes": [{
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:15",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:45",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:15",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:45",
+        "quals": "Digital"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005311400000",
+    "rootId": "10367270",
+    "title": "Chef",
+    "titleLang": "en",
+    "shortDescription": "A chef (Jon Favreau) quits his job at a prestigious restaurant and starts a food-truck business.",
+    "longDescription": "After a controlling owner (Dustin Hoffman) pushes him too far, chef Carl Casper (Jon Favreau) quits his position at a prestigious Los Angeles restaurant. As he tries to figure out what his next step should be, he finds himself in Miami. Carl joins forces with his ex-wife (Sofía Vergara), best friend (John Leguizamo) and son (Emjay Anthony) to launch a food-truck business, and the venture provides a chance to reignite his passion for cooking -- as well as his zest for life and love.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Comedy drama"],
+    "topCast": ["Jon Favreau", "Sofía Vergara", "John Leguizamo"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10367270/p10367270_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Chef (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "runTime": "PT01H55M",
+    "releaseDate": "2014-05-09",
+    "showtimes": [{
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:20"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:55"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:45",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T16:20",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:30",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "6022",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Studio Cinema Belmont"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:30"
+    }, {
+        "theatre": {
+            "id": "6022",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Studio Cinema Belmont"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:00"
+    }, {
+        "theatre": {
+            "id": "6022",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Studio Cinema Belmont"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:15"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134670&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:55",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134670&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134670&d=2014-07-08",
+        "quals": "Digital Presentation|AMC Independent"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005393320000",
+    "rootId": "10444717",
+    "title": "Deliver Us From Evil",
+    "titleLang": "en",
+    "shortDescription": "A lawman (Eric Bana) and a priest (Edgar Ramirez) work together to battle demonic forces.",
+    "longDescription": "As a veteran member of a South Bronx precinct, NYPD Sgt. Ralph Sarchie (Eric Bana) has seen more than his share of dark and horrifying events -- so many that they have begun to poison his soul. Sarchie further finds his beliefs and understanding pushed to the limit when he and his partner investigate a particularly bizarre incident. He forms an alliance with a renegade priest (Edgar Ramirez), who tries to convince Sarchie that real evil -- and demons -- do exist.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Horror", "Thriller"],
+    "topCast": ["Eric Bana", "Edgar Ramirez", "Olivia Munn"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10444717/p10444717_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Deliver Us From Evil (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "runTime": "PT01H57M",
+    "releaseDate": "2014-07-02",
+    "showtimes": [{
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:40"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:10"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:45"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:10"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:00",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:35",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:10",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:45",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:20",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135364&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135364&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135364&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135364&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135364&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T12:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135364&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:25",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135364&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135364&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:25",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135364&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:25",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:25",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T23:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135364&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005020020000",
+    "rootId": "10114915",
+    "title": "Earth to Echo",
+    "titleLang": "en",
+    "shortDescription": "Youngsters answer the call of a stranded alien robot and help it get back home.",
+    "longDescription": "After a construction project begins in their neighborhood, best friends Tuck (Brian \"Astro\" Bradley), Alex (Teo Halm) and Munch (Reese C. Hartwig) begin receiving strange, encoded messages on their cell phones. They immediately inform their parents and the authorities, but when no one takes them seriously, the youths decide to crack the code themselves and trace the messages to their source. The youths' curiosity leads them to a robotic extraterrestrial who desperately needs their help.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG"
+    }],
+    "genres": ["Science fiction", "Drama", "Adventure"],
+    "topCast": ["Brian \"Astro\" Bradley", "Teo Halm", "Reese C. Hartwig"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10114915/p10114915_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Earth to Echo (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "officialUrl": "http://callhimecho.com/",
+    "runTime": "PT01H29M",
+    "releaseDate": "2014-07-02",
+    "showtimes": [{
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:00"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:15"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:15"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:15"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:10",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:15",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:25",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:35",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:45",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130797&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130797&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130797&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130797&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130797&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T12:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130797&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130797&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130797&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130797&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130797&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130797&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130797&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130797&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130797&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130797&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV004843780000",
+    "rootId": "9957443",
+    "title": "Edge of Tomorrow",
+    "titleLang": "en",
+    "shortDescription": "Caught in a time loop, a soldier (Tom Cruise) repeatedly relives the battle in which he died.",
+    "longDescription": "When Earth falls under attack from invincible aliens, no military unit in the world is able to beat them. Maj. William Cage (Tom Cruise), an officer who has never seen combat, is assigned to a suicide mission. Killed within moments, Cage finds himself thrown into a time loop, in which he relives the same brutal fight -- and his death -- over and over again. However, Cage's fighting skills improve with each encore, bringing him and a comrade (Emily Blunt) ever closer to defeating the aliens.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Science fiction", "Action"],
+    "topCast": ["Tom Cruise", "Emily Blunt", "Brendan Gleeson"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/9957443/p9957443_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Edge of Tomorrow (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://www.edgeoftomorrowmovie.com/",
+    "runTime": "PT01H53M",
+    "releaseDate": "2014-06-06",
+    "showtimes": [{
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:30"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:30"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:00"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:10",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:45",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:20",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T10:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=128728&d=2014-07-08",
+        "quals": "Digital Presentation|A.M."
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=128728&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=128728&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=128728&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005098760000",
+    "rootId": "10184809",
+    "title": "Godzilla",
+    "titleLang": "en",
+    "shortDescription": "Human beings become caught in the middle when Godzilla and malevolent foes battle for supremacy.",
+    "longDescription": "Ford Brody (Aaron Taylor-Johnson), a Navy bomb expert, has just reunited with his family in San Francisco when he is forced to go to Japan to help his estranged father, Joe (Bryan Cranston). Soon, both men are swept up in an escalating crisis when Godzilla, King of the Monsters, arises from the sea to combat malevolent adversaries that threaten the survival of humanity. The creatures leave colossal destruction in their wake, as they make their way toward their final battleground: San Francisco.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Science fiction", "Adventure", "Action"],
+    "topCast": ["Aaron Taylor-Johnson", "Ken Watanabe", "Elizabeth Olsen"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10184809/p10184809_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Godzilla (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2.5"
+    },
+    "officialUrl": "http://www.godzillamovie.com/",
+    "runTime": "PT02H03M",
+    "releaseDate": "2014-05-16",
+    "showtimes": [{
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=131547&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=131547&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV002205680000",
+    "rootId": "178851",
+    "title": "Grand Canyon Adventure: River at Risk",
+    "titleLang": "en",
+    "shortDescription": "A raft ride down the Colorado River puts a spotlight on global water supplies.",
+    "longDescription": "Robert Redford narrates this environmentally conscious documentary, which offers a rafting tour of the majestic Grand Canyon. Throughout the adventure, the filmmakers question the water consumption habits of contemporary Americans, while contrasting these current trends with the practices of the Native Americans who previously inhabited the Colorado River basin. The documentarians also explore ways in which Americans could develop a more harmonious relationship with their natural water sources.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "genres": ["Documentary"],
+    "topCast": ["Robert Redford"],
+    "preferredImage": {
+        "uri": "dvdboxart/v5/NowShowing/178851/p178851_d_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Box Art",
+        "caption": {
+            "content": "Grand Canyon Adventure: River at Risk (2008)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2008,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "runTime": "PT00H43M",
+    "releaseDate": "2008-03-14",
+    "showtimes": [{
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:00"
+    }, {
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:00"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV004873410000",
+    "rootId": "9983480",
+    "title": "Great White Shark 3D",
+    "titleLang": "en",
+    "shortDescription": "Shark researchers explore the myths and reveal the truths about the remarkable predators.",
+    "longDescription": "An exploration of the shark's place in people's imagination vies with the reality of its role at the top of the sea's food chain.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "genres": ["Documentary"],
+    "topCast": ["Bill Nighy"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/9983480/p9983480_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Great White Shark (2013)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2013,
+    "runTime": "PT00H40M",
+    "releaseDate": "2013-05-24",
+    "showtimes": [{
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00"
+    }, {
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:00"
+    }, {
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:00"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005003960000",
+    "rootId": "10099311",
+    "title": "How to Train Your Dragon 2",
+    "titleLang": "en",
+    "shortDescription": "Hiccup (Jay Baruchel) and Toothless must save their people from a power-hungry invader.",
+    "longDescription": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting the island's unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider who turns out to be Hiccup's long-lost mother, Valka (Cate Blanchett). Hiccup and Toothless then find themselves at the center of a battle to protect Berk from a power-hungry warrior named Drago.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG"
+    }],
+    "genres": ["Fantasy", "Comedy", "Adventure", "Animated"],
+    "topCast": ["Jay Baruchel", "Cate Blanchett", "Gerard Butler"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10099311/p10099311_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "How to Train Your Dragon 2 (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://www.howtotrainyourdragon.com/",
+    "runTime": "PT01H42M",
+    "releaseDate": "2014-06-13",
+    "showtimes": [{
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:30"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:30"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:35",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:05",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:35",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:05",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:30",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130620&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130620&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T12:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130620&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130620&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:55",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130620&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130620&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130620&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005315920000",
+    "rootId": "10099311",
+    "title": "How to Train Your Dragon 2 3D",
+    "titleLang": "en",
+    "shortDescription": "Hiccup (Jay Baruchel) and Toothless must save their people from a power-hungry invader.",
+    "longDescription": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting the island's unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider who turns out to be Hiccup's long-lost mother, Valka (Cate Blanchett). Hiccup and Toothless then find themselves at the center of a battle to protect Berk from a power-hungry warrior named Drago.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG"
+    }],
+    "genres": ["Fantasy", "Comedy", "Adventure", "Animated"],
+    "topCast": ["Jay Baruchel", "Cate Blanchett", "Gerard Butler"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10099311/p10099311_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "How to Train Your Dragon 2 (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://www.howtotrainyourdragon.com/",
+    "runTime": "PT01H42M",
+    "releaseDate": "2014-06-13",
+    "showtimes": [{
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T10:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134710&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134710&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134710&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134710&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134710&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134710&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005110310000",
+    "rootId": "10193307",
+    "title": "Ida",
+    "titleLang": "en",
+    "shortDescription": "A novice nun is about to take vows when she learns from her only relative that she is Jewish.",
+    "longDescription": "In 1962, Anna is about to take vows as a nun when she learns from her only relative that she is Jewish. Both women embark on a journey to discover their family story and where they belong.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Drama"],
+    "topCast": ["Agata Trzebuchowska", "Agata Kulesza", "Joanna Kulig"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10193307/p10193307_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Ida (2013)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2013,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3.5"
+    },
+    "runTime": "PT01H20M",
+    "releaseDate": "2014-05-02",
+    "showtimes": [{
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T14:05"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T16:40"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:15"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:20"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005331480000",
+    "rootId": "10388494",
+    "title": "Island of Lemurs: Madagascar 3D",
+    "titleLang": "en",
+    "shortDescription": "Dr. Patricia Wright works to ensure the survival of endangered lemurs in today's world.",
+    "longDescription": "Millions of years ago, lemurs arrived as castaways on the island of Madagascar. Today, Dr. Patricia C. Wright is on a mission to ensure that these strange and endangered creatures survive in the modern world.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "G"
+    }],
+    "genres": ["Documentary"],
+    "topCast": ["Morgan Freeman"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10388494/p10388494_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Island of Lemurs: Madagascar (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "runTime": "PT00H40M",
+    "releaseDate": "2014-08-22",
+    "showtimes": [{
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:00"
+    }, {
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:00"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005317390000",
+    "rootId": "10372574",
+    "title": "Jersey Boys",
+    "titleLang": "en",
+    "shortDescription": "Four young men from the wrong side of the tracks form the iconic music group the Four Seasons.",
+    "longDescription": "In the 1960s, four scrappy young men from New Jersey -- Frankie Valli (John Lloyd Young), Bob Gaudio (Erich Bergen), Nick Massi (Michael Lomenda) and Tommy DeVito (Vincent Piazza) -- have the magic sound that propels them from singing under streetlights to singing in spotlights. With songs like \"Sherry,\" \"Big Girls Don't Cry\" and \"Walk Like a Man,\" the quartet finds itself at the top of the charts. However, personal and professional problems threaten to tear the group apart.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Musical", "Biography", "Docudrama"],
+    "topCast": ["John Lloyd Young", "Erich Bergen", "Michael Lomenda"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10372574/p10372574_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Jersey Boys (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2.5"
+    },
+    "officialUrl": "http://www.jerseyboysmovie.com/",
+    "runTime": "PT02H12M",
+    "releaseDate": "2014-06-20",
+    "showtimes": [{
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:40"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:30"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:15"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:35",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:20",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134733&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134733&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134733&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134733&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005063090000",
+    "rootId": "10155214",
+    "title": "Jerusalem",
+    "titleLang": "en",
+    "shortDescription": "An archaeologist gains unprecedented access to holy sites to unravel the city's greatest mysteries.",
+    "longDescription": "Archaeologist Jodi Magness travels through the city gaining unprecedented access to holy sites and its vast underground network to unravel some of Jerusalem's greatest mysteries.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "genres": ["Documentary"],
+    "topCast": ["Benedict Cumberbatch"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10155214/p10155214_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Jerusalem (2013)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2013,
+    "runTime": "PT00H42M",
+    "releaseDate": "2013-09-20",
+    "showtimes": [{
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:00"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005299920000",
+    "rootId": "10355741",
+    "title": "Journey to the South Pacific",
+    "titleLang": "en",
+    "shortDescription": "Jawi encounters whale sharks, sea turtles and other creatures of the sea in West Papua.",
+    "longDescription": "Jawi, a boy living on a tropical island in West Papua, encounters whale sharks, sea turtles and other creatures of the sea.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "genres": ["Documentary"],
+    "topCast": ["Cate Blanchett"],
+    "preferredImage": {
+        "uri": "iconic/v5/AllPhotos/10355741/p10355741_i_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Iconic",
+        "caption": {
+            "content": "Journey to the South Pacific (2013)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2013,
+    "runTime": "PT00H40M",
+    "releaseDate": "2013-11-27",
+    "showtimes": [{
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00"
+    }, {
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:00"
+    }, {
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00"
+    }, {
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:00"
+    }, {
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:00"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005979340000",
+    "rootId": "10887505",
+    "title": "Lekar Hum Deewana Dil",
+    "titleLang": "hi",
+    "subType": "Feature Film",
+    "genres": ["Romantic comedy"],
+    "topCast": ["Armaan Jain", "Deeksha Seth", "Rohini Hattangadi"],
+    "preferredImage": {
+        "uri": "movies/generic/generic_movies_v5.png"
+    },
+    "releaseYear": 2014,
+    "runTime": "PT02H17M",
+    "showtimes": [{
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T12:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=140674&d=2014-07-08"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=140674&d=2014-07-08"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=140674&d=2014-07-08"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=140674&d=2014-07-08"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005433960000",
+    "rootId": "10482844",
+    "title": "Life Itself",
+    "titleLang": "en",
+    "shortDescription": "Filmmaker Steve James examines the life of film critic Roger Ebert.",
+    "longDescription": "Filmmaker Steve James chronicles the life of film critic Roger Ebert, especially his career highlights, his battle with alcohol, and his sometimes ruthless rivalry with fellow critic Gene Siskel.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Documentary"],
+    "preferredImage": {
+        "uri": "movieposters/v5/NowShowing/10482844/p10482844_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Life Itself (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "officialUrl": "http://www.magpictures.com/lifeitself/",
+    "runTime": "PT01H56M",
+    "releaseDate": "2014-07-04",
+    "showtimes": [{
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:50"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T16:25"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:55"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:35"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV004991580000",
+    "rootId": "10086642",
+    "title": "Maleficent",
+    "titleLang": "en",
+    "shortDescription": "Young Maleficent rises to protect her kingdom from invaders, but a betrayal hardens her heart.",
+    "longDescription": "As a beautiful young woman of pure heart, Maleficent (Angelina Jolie) has an idyllic life in a forest kingdom. When an invading army threatens the land, Maleficent rises up to become its fiercest protector. However, a terrible betrayal hardens her heart and twists her into a creature bent on revenge. She engages in an epic battle with the invading king's successor, then curses his newborn daughter, Aurora -- realizing only later that the child holds the key to peace in the kingdom.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG"
+    }],
+    "genres": ["Fantasy", "Adventure", "Action"],
+    "topCast": ["Angelina Jolie", "Elle Fanning", "Sharlto Copley"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10086642/p10086642_p_v5_ae.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Maleficent (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2.5"
+    },
+    "officialUrl": "http://movies.disney.com/maleficent",
+    "runTime": "PT01H38M",
+    "releaseDate": "2014-05-30",
+    "showtimes": [{
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:45"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:20"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:10",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:25",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:45",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:05",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:15",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130512&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130512&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130512&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130512&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=130512&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T12:55",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130512&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:55",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130512&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130512&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130512&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130512&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130512&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV004991590000",
+    "rootId": "10086642",
+    "title": "Maleficent 3D",
+    "titleLang": "en",
+    "shortDescription": "Young Maleficent rises to protect her kingdom from invaders, but a betrayal hardens her heart.",
+    "longDescription": "As a beautiful young woman of pure heart, Maleficent (Angelina Jolie) has an idyllic life in a forest kingdom. When an invading army threatens the land, Maleficent rises up to become its fiercest protector. However, a terrible betrayal hardens her heart and twists her into a creature bent on revenge. She engages in an epic battle with the invading king's successor, then curses his newborn daughter, Aurora -- realizing only later that the child holds the key to peace in the kingdom.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG"
+    }],
+    "genres": ["Fantasy", "Adventure", "Action"],
+    "topCast": ["Angelina Jolie", "Elle Fanning", "Sharlto Copley"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10086642/p10086642_p_v5_ae.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Maleficent (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2.5"
+    },
+    "officialUrl": "http://movies.disney.com/maleficent",
+    "runTime": "PT01H38M",
+    "releaseDate": "2014-05-30",
+    "showtimes": [{
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:25",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130513&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130513&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV000071920000",
+    "rootId": "4246",
+    "title": "Mary Poppins",
+    "titleLang": "en",
+    "shortDescription": "London children meet a nanny (Julie Andrews) and a chimney sweep (Dick Van Dyke).",
+    "longDescription": "When Jane (Karen Dotrice) and Michael (Matthew Garber), the children of the wealthy and uptight Banks family, are faced with the prospect of a new nanny, they are pleasantly surprised by the arrival of the magical Mary Poppins (Julie Andrews). Embarking on a series of fantastical adventures with Mary and her Cockney performer friend, Bert (Dick Van Dyke), the siblings try to pass on some of their nanny's sunny attitude to their preoccupied parents (David Tomlinson, Glynis Johns).",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "G"
+    }],
+    "genres": ["Children", "Musical"],
+    "topCast": ["Julie Andrews", "Dick Van Dyke", "Glynis Johns"],
+    "preferredImage": {
+        "uri": "assets/p4246_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Mary Poppins (1964)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 1964,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "4"
+    },
+    "runTime": "PT02H20M",
+    "releaseDate": "1964-08-27",
+    "showtimes": [{
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:00"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005084310000",
+    "rootId": "10172993",
+    "title": "Non-Stop",
+    "titleLang": "en",
+    "shortDescription": "A federal air marshal (Liam Neeson) contends with a dire threat aboard a passenger plane.",
+    "longDescription": "Alcoholic and world-weary, U.S. Air Marshal Bill Marks (Liam Neeson) lost his passion for his work long ago. Even though lives are potentially at stake during every flight, he sees the assignment as just a desk job. However, his \"ordinary day at the office\" becomes a high-stakes crisis during a flight to London. Marks receives a series of text messages demanding that he instruct the airline to transfer $150 million into an offshore account, or a passenger will die every 20 minutes.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Action", "Thriller"],
+    "topCast": ["Liam Neeson", "Julianne Moore", "Anson Mount"],
+    "preferredImage": {
+        "uri": "assets/p10172993_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Non-Stop (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2.5"
+    },
+    "officialUrl": "http://www.nonstopthefilm.com/",
+    "runTime": "PT01H47M",
+    "releaseDate": "2014-02-28",
+    "showtimes": [{
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=131405&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005465290000",
+    "rootId": "10510318",
+    "title": "Obvious Child",
+    "titleLang": "en",
+    "shortDescription": "An immature comic must navigate adulthood after a tryst results in her unplanned pregnancy.",
+    "longDescription": "An immature, newly unemployed comic (Jenny Slate) must navigate the murky waters of adulthood after her fling with a graduate student (Jake Lacy) results in an unplanned pregnancy.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Comedy"],
+    "topCast": ["Jenny Slate", "Jake Lacy", "Gaby Hoffman"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10510318/p10510318_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Obvious Child (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://obviouschildmovie.tumblr.com/",
+    "runTime": "PT01H23M",
+    "releaseDate": "2014-06-06",
+    "showtimes": [{
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:55"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T16:30"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:20"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:35"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:30"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:45"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:30"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:30"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005719530000",
+    "rootId": "10753500",
+    "title": "Pandas: The Journey Home",
+    "titleLang": "en",
+    "shortDescription": "Scientists reintroduce breeding populations of giant pandas to the wild.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "genres": ["Documentary"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10753500/p10753500_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Pandas: The Journey Home (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "runTime": "PT00H40M",
+    "showtimes": [{
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T10:00"
+    }, {
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:00"
+    }, {
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:00"
+    }, {
+        "theatre": {
+            "id": "7550",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Mugar Omni Theater, Museum of Science"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005333880000",
+    "rootId": "9531103",
+    "title": "Penguins 3D",
+    "titleLang": "en",
+    "shortDescription": "A penguin battles his way from adolescence to adulthood and he becomes king after a tragedy.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG"
+    }],
+    "genres": ["Adventure", "Drama"],
+    "topCast": ["David Attenborough", "Tim Allen"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/9531103/p9531103_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "The Penguin King (2012)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2012,
+    "runTime": "PT01H18M",
+    "showtimes": [{
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T10:00"
+    }, {
+        "theatre": {
+            "id": "9054",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Simons IMAX Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005147690000",
+    "rootId": "10230650",
+    "title": "Rio 2",
+    "titleLang": "en",
+    "shortDescription": "Blu (Jesse Eisenberg) and his family travel to the Amazon to learn to live as wild birds.",
+    "longDescription": "Blue macaws Blu (Jesse Eisenberg), Jewel (Anne Hathaway) and their three children are comfortably settled in the city -- perhaps too comfortably. Jewel fears that the children are becoming more like humans than birds. After learning that she and Blu may not be the last blue macaws after all, Jewel decides that their little family should visit the Amazon jungle. It's there that Blu meets his formidable father-in-law (Andy Garcia) ]and goes beak-to-beak with archnemesis Nigel (Jemaine Clement).",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "G"
+    }],
+    "genres": ["Comedy", "Musical", "Adventure", "Animated"],
+    "topCast": ["Anne Hathaway", "Jesse Eisenberg", "Jemaine Clement"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10230650/p10230650_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Rio 2 (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2.5"
+    },
+    "officialUrl": "http://www.riomovies.com/",
+    "runTime": "PT01H41M",
+    "releaseDate": "2014-04-11",
+    "showtimes": [{
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00",
+        "quals": "A.M.|Digital"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005012200000",
+    "rootId": "10106695",
+    "title": "Snowpiercer",
+    "titleLang": "en",
+    "shortDescription": "During Earth's second Ice Age, less-fortunate passengers aboard a luxury train plan a revolt.",
+    "longDescription": "Survivors of Earth's second Ice Age live out their days on a luxury train that plows through snow and ice. The train's poorest residents, who live in the squalid caboose, plan to improve their lot by taking over the engine room.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Science fiction", "Action"],
+    "topCast": ["Chris Evans", "Song Kang-ho", "Tilda Swinton"],
+    "preferredImage": {
+        "uri": "movieposters/v5/NowShowing/10106695/p10106695_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Snowpiercer (2013)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2013,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "runTime": "PT02H05M",
+    "releaseDate": "2014-06-27",
+    "showtimes": [{
+        "theatre": {
+            "id": "6097",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Brattle Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:30"
+    }, {
+        "theatre": {
+            "id": "6097",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Brattle Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00"
+    }, {
+        "theatre": {
+            "id": "6097",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Brattle Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:30"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:30"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:15"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:45"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005354090000",
+    "rootId": "10411593",
+    "title": "Tammy",
+    "titleLang": "en",
+    "shortDescription": "After losing her job and discovering her mate's infidelity, a woman takes her grandmother on a trip.",
+    "longDescription": "For Tammy (Melissa McCarthy), a burger-joint waitress, a bad day keeps getting worse. She wrecks her car, loses her job and finds her husband in a compromising position with their neighbor. It's time for Tammy to hit the road, but without money or transportation, her options are limited. Her only choice is a road trip with her grandmother, Pearl (Susan Sarandon), who has a car, cash and an itch to see Niagara Falls. It's not the escape Tammy had in mind, but it may be what she needs.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Comedy"],
+    "topCast": ["Melissa McCarthy", "Susan Sarandon", "Kathy Bates"],
+    "preferredImage": {
+        "uri": "movies/generic/generic_movies_v5.png"
+    },
+    "releaseYear": 2014,
+    "officialUrl": "http://tammymovie.warnerbros.com/",
+    "runTime": "PT01H37M",
+    "releaseDate": "2014-07-02",
+    "showtimes": [{
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:00"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:30"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:00"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:10"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:30",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:45",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:00",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:10",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:20",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:30",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135204&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135204&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135204&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135204&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135204&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135204&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T23:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=135204&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135204&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135204&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135204&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135204&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135204&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135204&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=135204&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135204&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135204&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135204&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135204&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135204&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135204&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T23:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=135204&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005317330000",
+    "rootId": "10372532",
+    "title": "The Fault in Our Stars",
+    "titleLang": "en",
+    "shortDescription": "Two teenagers (Shailene Woodley, Ansel Elgort) meet and fall in love at a cancer support group.",
+    "longDescription": "Hazel Grace Lancaster (Shailene Woodley), a 16-year-old cancer patient, meets and falls in love with Gus Waters (Ansel Elgort), a similarly afflicted teen from her cancer support group. Hazel feels that Gus really understands her. They both share the same acerbic wit and a love of books, especially Grace's touchstone, \"An Imperial Affliction\" by Peter Van Houten. When Gus scores an invitation to meet the reclusive author, he and Hazel embark on the adventure of their brief lives.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Drama", "Romance"],
+    "topCast": ["Shailene Woodley", "Ansel Elgort", "Willem Dafoe"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10372532/p10372532_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "The Fault in Our Stars (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://thefaultinourstarsmovie.com/",
+    "runTime": "PT02H06M",
+    "releaseDate": "2014-06-06",
+    "showtimes": [{
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:20"
+    }, {
+        "theatre": {
+            "id": "5179",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Somerville Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:45"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:40",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:20",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:25",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T12:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134731&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134731&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134731&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134731&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T23:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134731&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005317400000",
+    "rootId": "10372601",
+    "title": "Think Like a Man Too",
+    "titleLang": "en",
+    "shortDescription": "Compromising situations jeopardize a romantic weekend in Las Vegas for several couples.",
+    "longDescription": "In \"Think Like a Man,\" a group of close friends applied relationship advice from a book by Steve Harvey to their own romantic entanglements. In the end, Dominic (Michael Ealy) and the rest of his \"band of brothers\" were well on their way to everlasting love with the women in their lives. However, when all of the couples reunite in Las Vegas for one's wedding, a series of compromising situations threatens to derail not only the big event but also the survival of everyone else's love affair.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Romantic comedy"],
+    "topCast": ["Adam Brody", "Michael Ealy", "Jerry Ferrara"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10372601/p10372601_p_v5_ab.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Think Like a Man Too (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2"
+    },
+    "runTime": "PT01H45M",
+    "releaseDate": "2014-06-20",
+    "showtimes": [{
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134734&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134734&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134734&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134734&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=134734&d=2014-07-08",
+        "quals": "Digital Presentation"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:25",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134734&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134734&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134734&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=134734&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:25",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134734&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134734&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134734&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134734&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=134734&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005121190000",
+    "rootId": "10204988",
+    "title": "Third Person",
+    "titleLang": "en",
+    "shortDescription": "Three love stories set in different cities explore the beginning, middle and end of a relationship.",
+    "longDescription": "An acclaimed novelist (Liam Neeson) struggles to write an analysis of love in one of three stories, each set in a different city, that detail the beginning, middle and end of a relationship.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Drama", "Romance"],
+    "topCast": ["Liam Neeson", "Adrien Brody", "Olivia Wilde"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10204988/p10204988_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Third Person (2013)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2013,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2"
+    },
+    "runTime": "PT02H16M",
+    "releaseDate": "2014-06-20",
+    "showtimes": [{
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T14:00",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T17:00",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:00",
+        "quals": "Descriptive Video Services|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV004922400000",
+    "rootId": "10024445",
+    "title": "Transformers: Age of Extinction",
+    "titleLang": "en",
+    "shortDescription": "As humanity picks up the pieces after an epic battle, a shadowy group emerges to control history.",
+    "longDescription": "After an epic battle, a great city lies in ruins, but the Earth itself is saved. As humanity begins to pick up the pieces, a shadowy group emerges to try to take control of history. Meanwhile, an ancient and powerful new menace sets its sights on Earth. A new group of humans, led by Cade Yeager (Mark Wahlberg), helps Optimus Prime (Peter Cullen) ]and the Autobots rise up to meet their most fearsome challenge yet: a worldwide war of good versus evil.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Science fiction", "Adventure", "Action"],
+    "topCast": ["Mark Wahlberg", "Stanley Tucci", "Li Bingbing"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10024445/p10024445_p_v5_ad.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Transformers: Age of Extinction (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2"
+    },
+    "officialUrl": "http://www.transformersmovie.com/",
+    "runTime": "PT02H45M",
+    "releaseDate": "2014-06-27",
+    "showtimes": [{
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:30"
+    }, {
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:00"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:00",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:55",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:30",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:15",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=129727&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=129727&d=2014-07-08",
+        "quals": "No Passes|Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T11:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129727&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129727&d=2014-07-08",
+        "quals": "Descriptive Video Services|RPX|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T15:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129727&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129727&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129727&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:55",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129727&d=2014-07-08",
+        "quals": "Descriptive Video Services|RPX|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129727&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129727&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:55",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129727&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005726960000",
+    "rootId": "10024445",
+    "title": "Transformers: Age of Extinction -- An IMAX 3D Experience",
+    "titleLang": "en",
+    "shortDescription": "As humanity picks up the pieces after an epic battle, a shadowy group emerges to control history.",
+    "longDescription": "After an epic battle, a great city lies in ruins, but the Earth itself is saved. As humanity begins to pick up the pieces, a shadowy group emerges to try to take control of history. Meanwhile, an ancient and powerful new menace sets its sights on Earth. A new group of humans, led by Cade Yeager (Mark Wahlberg), helps Optimus Prime (Peter Cullen) ]and the Autobots rise up to meet their most fearsome challenge yet: a worldwide war of good versus evil.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Science fiction", "Adventure", "Action"],
+    "topCast": ["Mark Wahlberg", "Stanley Tucci", "Li Bingbing"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10024445/p10024445_p_v5_ad.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Transformers: Age of Extinction (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2"
+    },
+    "officialUrl": "http://www.transformersmovie.com/",
+    "runTime": "PT02H45M",
+    "releaseDate": "2014-06-27",
+    "showtimes": [{
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T12:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=139149&d=2014-07-08",
+        "quals": "No Passes|IMAX"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=139149&d=2014-07-08",
+        "quals": "No Passes|IMAX"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=139149&d=2014-07-08",
+        "quals": "No Passes|IMAX"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=139149&d=2014-07-08",
+        "quals": "No Passes|IMAX"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:35",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139149&d=2014-07-08",
+        "quals": "No Passes|IMAX"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:20",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139149&d=2014-07-08",
+        "quals": "No Passes|IMAX"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139149&d=2014-07-08",
+        "quals": "No Passes|IMAX"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:55",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=139149&d=2014-07-08",
+        "quals": "No Passes|IMAX"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV004922410000",
+    "rootId": "10024445",
+    "title": "Transformers: Age of Extinction 3D",
+    "titleLang": "en",
+    "shortDescription": "As humanity picks up the pieces after an epic battle, a shadowy group emerges to control history.",
+    "longDescription": "After an epic battle, a great city lies in ruins, but the Earth itself is saved. As humanity begins to pick up the pieces, a shadowy group emerges to try to take control of history. Meanwhile, an ancient and powerful new menace sets its sights on Earth. A new group of humans, led by Cade Yeager (Mark Wahlberg), helps Optimus Prime (Peter Cullen) ]and the Autobots rise up to meet their most fearsome challenge yet: a worldwide war of good versus evil.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Science fiction", "Adventure", "Action"],
+    "topCast": ["Mark Wahlberg", "Stanley Tucci", "Li Bingbing"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10024445/p10024445_p_v5_ad.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Transformers: Age of Extinction (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "2"
+    },
+    "officialUrl": "http://www.transformersmovie.com/",
+    "runTime": "PT02H45M",
+    "releaseDate": "2014-06-27",
+    "showtimes": [{
+        "theatre": {
+            "id": "6525",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Capitol Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:45",
+        "quals": "RealD 3D"
+    }, {
+        "theatre": {
+            "id": "6066",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Apple Cinemas Cambridge,"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:15",
+        "quals": "Digital"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=129728&d=2014-07-08",
+        "quals": "No Passes|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T17:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=129728&d=2014-07-08",
+        "quals": "No Passes|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=129728&d=2014-07-08",
+        "quals": "No Passes|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=129728&d=2014-07-08",
+        "quals": "No Passes|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "10934",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Assembly Row 12"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAXFU&m=129728&d=2014-07-08",
+        "quals": "No Passes|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T11:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129728&d=2014-07-08",
+        "quals": "Descriptive Video Services|RPX|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T12:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129728&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129728&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129728&d=2014-07-08",
+        "quals": "Descriptive Video Services|RPX|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:00",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=129728&d=2014-07-08",
+        "quals": "Descriptive Video Services|No Passes|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129728&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T13:10",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129728&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129728&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:50",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129728&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129728&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T20:40",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129728&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T22:25",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=129728&d=2014-07-08",
+        "quals": "Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005453780000",
+    "rootId": "10496584",
+    "title": "Whitey: United States of America v. James J. Bulger",
+    "titleLang": "en",
+    "shortDescription": "Filmmaker Joe Berlinger tells the story of the South Boston mobster, including his trial.",
+    "longDescription": "Filmmaker Joe Berlinger examines the story of South Boston crime boss Whitey Bulger, including his sensational trial. Key players on every side reveal Bulger's influence on crime and law enforcement.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "R"
+    }],
+    "genres": ["Documentary"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10496584/p10496584_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "Whitey: United States of America v. James J. Bulger (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "runTime": "PT01H47M",
+    "releaseDate": "2014-06-27",
+    "showtimes": [{
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T13:30"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": true,
+        "dateTime": "2014-07-08T16:00"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:00"
+    }, {
+        "theatre": {
+            "id": "7646",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Kendall Square Cinema"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:15"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:45"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T14:15"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T16:30"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T19:15"
+    }, {
+        "theatre": {
+            "id": "6185",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Coolidge Corner Theatre"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:45"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV004967390000",
+    "rootId": "10063537",
+    "title": "X-Men: Days of Future Past",
+    "titleLang": "en",
+    "shortDescription": "The X-Men join forces with their earlier selves to change a pivotal historical event.",
+    "longDescription": "Convinced that mutants pose a threat to humanity, Dr. Bolivar Trask (Peter Dinklage) develops the Sentinels, enormous robotic weapons that can detect a mutant gene and zero in on that person. In the 21st century, the Sentinels have evolved into highly efficient killing machines. With mutants now facing extinction, Wolverine (Hugh Jackman) volunteers to go back in time and rally the X-Men of the past to help change a pivotal moment in history and thereby save their future.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Action", "Science fiction", "Fantasy"],
+    "topCast": ["Hugh Jackman", "James McAvoy", "Michael Fassbender"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10063537/p10063537_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "X-Men: Days of Future Past (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://x-menmovies.com/",
+    "runTime": "PT02H11M",
+    "releaseDate": "2014-05-23",
+    "showtimes": [{
+        "theatre": {
+            "id": "5658",
+            "address": {
+                "country": "USA"
+            },
+            "name": "Regal Fenway Stadium 13"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:45",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAOVD&m=130233&d=2014-07-08",
+        "quals": "Descriptive Video Services|DVS®|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T15:05",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130233&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T21:30",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=130233&d=2014-07-08",
+        "quals": "Digital Presentation|Closed Captioned"
+    }],
+    "entityType": "Movie"
+}, {
+    "tmsId": "MV005250150000",
+    "rootId": "10063537",
+    "title": "X-Men: Days of Future Past 3D",
+    "titleLang": "en",
+    "shortDescription": "The X-Men join forces with their earlier selves to change a pivotal historical event.",
+    "longDescription": "Convinced that mutants pose a threat to humanity, Dr. Bolivar Trask (Peter Dinklage) develops the Sentinels, enormous robotic weapons that can detect a mutant gene and zero in on that person. In the 21st century, the Sentinels have evolved into highly efficient killing machines. With mutants now facing extinction, Wolverine (Hugh Jackman) volunteers to go back in time and rally the X-Men of the past to help change a pivotal moment in history and thereby save their future.",
+    "descriptionLang": "en",
+    "subType": "Feature Film",
+    "ratings": [{
+        "body": "Motion Picture Association of America",
+        "code": "PG-13"
+    }],
+    "genres": ["Action", "Science fiction", "Fantasy"],
+    "topCast": ["Hugh Jackman", "James McAvoy", "Michael Fassbender"],
+    "preferredImage": {
+        "uri": "movieposters/v5/AllPhotos/10063537/p10063537_p_v5_aa.jpg",
+        "height": "360",
+        "width": "240",
+        "primary": "true",
+        "category": "Poster Art",
+        "caption": {
+            "content": "X-Men: Days of Future Past (2014)",
+            "lang": "en"
+        }
+    },
+    "releaseYear": 2014,
+    "qualityRating": {
+        "ratingsBody": "TMS",
+        "value": "3"
+    },
+    "officialUrl": "http://x-menmovies.com/",
+    "runTime": "PT02H11M",
+    "releaseDate": "2014-05-23",
+    "showtimes": [{
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T11:55",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=133765&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }, {
+        "theatre": {
+            "id": "9277",
+            "address": {
+                "country": "USA"
+            },
+            "name": "AMC Loews Boston Common 19"
+        },
+        "barg": false,
+        "dateTime": "2014-07-08T18:15",
+        "ticketURI": "http://www.fandango.com/tms.asp?t=AAPNV&m=133765&d=2014-07-08",
+        "quals": "Closed Captioned|RealD 3D"
+    }],
+    "entityType": "Movie"
+}]
+
+
+response = HTTParty.get("http://data.tmsapi.com/v1/movies/showings?startDate=2014-07-08&zip=02144&api_key=ENV['TMS_TOKEN']")
+
+@showtime = HTTParty.get("http://data.tmsapi.com/v1/movies/showings?startDate=2014-07-08&zip=02144&api_key=ENV['TMS_TOKEN']")
+
+movie_showings.each do |movie|
+  movie.showtimes.each do |showing|
+    puts "#{movie.title} is playing at '#{showing.theatre.name}' at #{showing.date_time}."
+  end
+end

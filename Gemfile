@@ -27,6 +27,8 @@ gem 'devise'
 
 gem 'tmsapi'
 
+gem 'pry'
+
 gem 'dotenv-rails', groups: [:development, :test]
 
 # bundle exec rake doc:rails generates the API under doc/api.
