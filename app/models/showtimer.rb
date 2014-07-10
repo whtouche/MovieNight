@@ -15,7 +15,7 @@ TMS = TMSAPI::API.new :api_key => ENV['TMS_TOKEN']
   def self.data(zip) # must be input as a 'string'
     TMS.movies.theatres.showings({ :zip => "#{zip}" })
   end
-  binding.pry
+  #binding.pry
   # Add to _showtime.html.erb view to display data dump on the browse movies page
   # <%= Showtimer.data('02144') %>
 end

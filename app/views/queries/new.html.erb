@@ -1,0 +1,9 @@
+<%= form_for @query do |f| %>
+  <div class="field">
+    <%= f.label :zip, 'Zip Code' %><br>
+    <%= f.text_field :zip %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
