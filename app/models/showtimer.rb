@@ -12,8 +12,9 @@ class Showtimer
   end
 =end
 TMS = TMSAPI::API.new :api_key => ENV['TMS_TOKEN']
-  def self.data(zip) # must be input as a 'string'
-    TMS.movies.theatres.showings({ :zip => "#{zip}" })
+  def self.data(zip, date) # must be input as a 'string'
+    #TMS.movies.theatres.showings({ :zip => "#{zip}" })
+    TMS.movies.theatres.showings(zip: "#{zip}", stateDate: "#{date}")
   end
   #binding.pry
   # Add to _showtime.html.erb view to display data dump on the browse movies page
