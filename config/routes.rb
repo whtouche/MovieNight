@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
   devise_for :users
 
-  resources :showtimes, only: [:index, :show]
   resources :events
   resources :queries #, only: [:create, :new, :show]
 

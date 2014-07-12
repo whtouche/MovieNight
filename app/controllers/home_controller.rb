@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
   def show
-    @showtimes = Showtime.all
+    @events = Event.all
   end
 end

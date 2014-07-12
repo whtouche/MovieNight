@@ -11,39 +11,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140709150515) do
+ActiveRecord::Schema.define(version: 20140707203253) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "events", force: true do |t|
-    t.text     "title"
-    t.text     "location"
-    t.text     "description"
+    t.text     "title",             null: false
+    t.text     "theatre",           null: false
+    t.text     "movie"
+    t.text     "event_description"
     t.date     "date"
     t.time     "time"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.text     "movie"
-  end
-
-  create_table "showtimes", force: true do |t|
-    t.text "theater"
-    t.time "time"
-    t.date "date"
-    t.text "title"
-    t.text "description"
-    t.text "rating"
-    t.text "genre"
-  end
-
-  create_table "theaters", force: true do |t|
-    t.integer "theaterid"
-    t.text    "streetaddress"
-    t.text    "city"
-    t.text    "state"
-    t.text    "zipcode"
-    t.text    "phone_number"
   end
 
   create_table "users", force: true do |t|

@@ -1,0 +1,7 @@
+
+<br>
+<%= link_to(event.title, event_path(event.id)) %>
+
+
+| <%= link_to('Edit', edit_event_path(event)) %>
+| <%= link_to 'Delete', event, method: :delete, data: {confirm: 'Are you sure?'} %>

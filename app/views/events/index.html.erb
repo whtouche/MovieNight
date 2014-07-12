@@ -1,6 +1,7 @@
-<h3>Browse Events Index</h3>
-<p>
-A list of all events
-</p>
+<h3>Events</h3>
 
-<%= link_to 'Home', root_path %>
+<%= render partial: "event", collection: @events %>
+<br>
+<br>
+<%= link_to 'Add a new event', new_event_path %>
+
