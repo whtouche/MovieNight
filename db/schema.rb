@@ -17,6 +17,7 @@ ActiveRecord::Schema.define(version: 20140712202206) do
   enable_extension "plpgsql"
 
   create_table "events", force: true do |t|
+    t.integer  "user_id"
     t.text     "title",             null: false
     t.text     "theatre",           null: false
     t.text     "movie"
@@ -26,6 +27,8 @@ ActiveRecord::Schema.define(version: 20140712202206) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "events", ["user_id"], name: "index_events_on_user_id", using: :btree
 
   create_table "events_users", id: false, force: true do |t|
     t.integer "event_id"

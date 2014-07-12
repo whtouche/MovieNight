@@ -21,7 +21,7 @@ class QueriesController < ApplicationController
     params.require(:query).permit(:zip, :date)
   end
 
-  def data(zip, date)
+  def data(zip, date) # Uses TMS API with TMS gem and returns data for all movies playing in area by date
     TMS.movies.theatres.showings(zip: "#{zip}", startDate: "#{date}")
   end
 
