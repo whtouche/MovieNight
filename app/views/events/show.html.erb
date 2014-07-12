@@ -10,3 +10,7 @@
 <%= @event.date %>
 <br>
 <%= @event.time %>
+<br>
+<% if user_signed_in? %>
+<p> <%= link_to 'Join Event', new_article_comment_path(@article) %> </p>
+<% end %>
