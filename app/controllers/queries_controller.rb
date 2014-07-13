@@ -26,8 +26,10 @@ class QueriesController < ApplicationController
   end
 
   def movies(data) # Get a list of all movie titles ##DOESN'T WORK
+    @movies = []
     data.each do |movie|
-      movie.title
+      movies << @movie.title
     end
+    return movies
   end
 end

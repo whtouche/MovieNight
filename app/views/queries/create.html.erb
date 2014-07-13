@@ -1,5 +1,10 @@
 <h3>Create</h3>
-<% counter = 0 %>
-<%= @results[counter].showtimes[counter] %>
 <br>
+<%= link_to 'Home', root_path %>
+
+<% @results.each_with_index do |movie, index| %>
+<%= link_to movie.title, root_path %>
+<br>
+<% end %>
+
 <%= link_to 'Home', root_path %>
