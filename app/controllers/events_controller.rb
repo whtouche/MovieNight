@@ -13,11 +13,21 @@ class EventsController < ApplicationController
   end
 
   def create
-    @event = Event.new(event_params)
+    @event = current_user.events.new(event_params)
     if @event.save
       redirect_to event_path(@event), notice: "Event Created Successfully"
     else
       render :new, notice: "Failure!"
+    end
+  end
+
+  def join
+    event = Event.find(params[:event_id])
+    rsvp = Rsvp.new(event_id: event.id, user_id: current_user.id)
+    if rsvp.save
+      redirect_to root_path
+    else
+      redirect_to event_path(event), notice: "Failed to Join I guess"
     end
   end
 

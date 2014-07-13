@@ -1,4 +1,5 @@
-
+<h3><%= link_to 'Home', root_path %></h3>
+<p>
 <%= @event.title %>
 <br>
 <%= @event.event_description %>
@@ -12,5 +13,5 @@
 <%= @event.time %>
 <br>
 <% if user_signed_in? %>
-<p> <%= link_to 'Join Event', new_article_comment_path(@article) %> </p>
+<p> <%= link_to 'Join Event', event_join_path(@event), method: :post  %> </p>
 <% end %>

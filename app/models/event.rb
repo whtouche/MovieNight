@@ -1,3 +1,4 @@
 class Event < ActiveRecord::Base
-  has_many :users
+  belongs_to :user
+  has_many :rsvped_users, through: :rsvps, foreign_key: 'user_id'
 end
