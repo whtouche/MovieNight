@@ -5,7 +5,7 @@ class CreateEvents < ActiveRecord::Migration
       t.text :title, null: false
       t.text :theatre, null: false
       t.text :movie
-      t.text :event_description
+      t.text :event_description #remove event_
       t.date :date
       t.time :time
 
@@ -13,3 +13,5 @@ class CreateEvents < ActiveRecord::Migration
     end
   end
 end
+#.string would be fine
+#.text = for longer....things
