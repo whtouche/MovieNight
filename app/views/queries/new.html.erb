@@ -1,17 +1,18 @@
 <h3>Enter the Zip Code and the Date</h3>
 
-<%= form_for @query do |f| %>
+<%= form_tag queries_path do |f| %>
   <div class="field">
-    <%= f.label :zip, 'Zip Code' %><br>
-    <%= f.text_field :zip %>
+    <%= label_tag :zip, 'Zip Code' %><br>
+    <%= text_field_tag :zip %>
   </div>
     <div class="field">
-    <%= f.label :date, 'Date' %><br>
-    <%= f.text_field :date %>
+    <%= label_tag :date, 'Date' %><br>
+    <%= text_field_tag :date %>
   </div>
   <div class="actions">
-    <%= f.submit %>
+    <%= submit_tag %>
   </div>
 <% end %>
 <br>
 <%= link_to 'Home', root_path %>
+<!--Use form_tag instead of form_for if get rid of Query model-->

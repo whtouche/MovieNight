@@ -1,0 +1,6 @@
+<h3><%= @result.title %></h3>
+Genres: <%= @result.genres %>
+<% @result.showtimes.each do |showtime| %>
+<%= showtime.theatre.name %>
+<%= link_to showtime.dateTime, new_event_path(@event, :movie_title => @result.title, :theatre => showtime.theatre.name, :date_time => showtime.dateTime) %><br>
+<% end %>

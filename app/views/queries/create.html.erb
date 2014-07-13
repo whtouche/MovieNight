@@ -1,9 +1,9 @@
 <h3>Create</h3>
 <br>
 <%= link_to 'Home', root_path %>
-
-<% @results.each_with_index do |movie, index| %>
-<%= link_to movie.title, root_path %>
+<br>
+<% @results.each do |movie| %>
+<%= link_to movie.title, results_path(:zip => @zip, :date => @date, :title => movie.title) %>
 <br>
 <% end %>
 
