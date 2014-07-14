@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<!-- saved from url=(0074)http://twbscolor.smarchal.com/scss?bd=ffffff&bh=7148ff&cd=000000&ch=ffffff -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="UTF-8">
+
+		<title>TWBSColor - Generate your own Bootstrap navbar</title>
+		<meta name="author" content="Samuel Marchal - @zessx">
+		<meta name="description" content="TWBSColor - Generate your own Bootstrap navbar">
+		<meta name="keywords" content="TWBSColor, color, twitter, bootstrap, generate, css, zessx">
+		<meta property="og:image" content="http://twbscolor.smarchal.com/assets/logo.png">
+
+		<link rel="shortcut icon" href="http://twbscolor.smarchal.com/assets/favicon.ico" type="image/x-icon">
+
+		<link href="./TWBSColor - Generate your own Bootstrap navbar_files/css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="http://twbscolor.smarchal.com/monsterflat-1.0-trending/monsterflat-1.0.css">
+
+		<link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="http://twbscolor.smarchal.com/assets/app.css">
+		<style id="custom-style">@bgDefault      : #ffffff;
+@bgHighlight    : #0079ff;
+@colDefault     : #000000;
+@colHighlight   : #ffffff;
+.navbar-default {
+	background-color: @bgDefault;
+	border-color: @bgHighlight;
+	.navbar-brand {
+		color: @colDefault;
+		&:hover, &:focus { 
+			color: @colHighlight; }}
+	.navbar-text {
+		color: @colDefault; }
+	.navbar-nav {
+		> li {
+			> a {
+				color: @colDefault;
+				&:hover,  &:focus {
+					color: @colHighlight; }}}
+		> .active {
+			> a, > a:hover, > a:focus {
+				color: @colHighlight;
+				background-color: @bgHighlight; }}
+		> .open {
+			> a, > a:hover, > a:focus {
+				color: @colHighlight;
+				background-color: @bgHighlight; }}}
+	.navbar-toggle {
+		border-color: @bgHighlight;
+		&:hover, &:focus {
+			background-color: @bgHighlight; }
+		.icon-bar {
+			background-color: @colDefault; }}
+	.navbar-collapse,
+	.navbar-form {
+		border-color: @colDefault; }
+	.navbar-link {
+		color: @colDefault;
+		&:hover {
+			color: @colHighlight; }}}
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav .open .dropdown-menu {
+		> li > a {
+			color: @colDefault;
+			&:hover, &:focus {
+				color: @colHighlight; }}
+		> .active {
+			> a, > a:hover, > a:focus, {
+				color: @colHighlight;
+				background-color: @bgHighlight; }}}
+}</style>
+
+		<script async="" src="./TWBSColor - Generate your own Bootstrap navbar_files/analytics.js"></script><script src="./TWBSColor - Generate your own Bootstrap navbar_files/jquery-1.10.2.min.js"></script>
+		<script src="./TWBSColor - Generate your own Bootstrap navbar_files/bootstrap.min.js"></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-32364969-3', 'smarchal.com');
+		  ga('send', 'pageview');
+
+		</script>
+
+		<script>
+			var BASE = 'http://twbscolor.smarchal.com/';
+			var BASEGEN = 'http://twbscolor.smarchal.com/scss';
+
+			$(document).on('click', 'navbar a', function(ev) {
+				ev.preventDefault();
+				return false;
+			});
+
+			$(document).on('change', '#form-generate', function(ev) {
+
+				var bd = $('#bd').val();
+				var bh = $('#bh').val();
+				var cd = $('#cd').val();
+				var ch = $('#ch').val();
+				var link = BASEGEN+'?bd='+bd.replace('#', '')+'&bh='+bh.replace('#', '')+'&cd='+cd.replace('#', '')+'&ch='+ch.replace('#', '');
+
+				$('.permalink')
+					.attr('href', link)
+					.find('pre')
+					.html(link);
+				$('iframe:first').attr('src', BASE+'navbar.php?bd='+bd.replace('#', '')+'&bh='+bh.replace('#', '')+'&cd='+cd.replace('#', '')+'&ch='+ch.replace('#', ''));
+
+				$('#scss pre').html('$bgDefault      : '+bd+';\n\
+$bgHighlight    : '+bh+';\n\
+$colDefault     : '+cd+';\n\
+$colHighlight   : '+ch+';\n\
+.navbar-default {\n\
+	background-color: $bgDefault;\n\
+	border-color: $bgHighlight;\n\
+	.navbar-brand {\n\
+		color: $colDefault;\n\
+		&:hover, &:focus { \n\
+			color: $colHighlight; }}\n\
+	.navbar-text {\n\
+		color: $colDefault; }\n\
+	.navbar-nav {\n\
+		> li {\n\
+			> a {\n\
+				color: $colDefault;\n\
+				&:hover,  &:focus {\n\
+					color: $colHighlight; }}}\n\
+		> .active {\n\
+			> a, > a:hover, > a:focus {\n\
+				color: $colHighlight;\n\
+				background-color: $bgHighlight; }}\n\
+		> .open {\n\
+			> a, > a:hover, > a:focus {\n\
+				color: $colHighlight;\n\
+				background-color: $bgHighlight; }}}\n\
+	.navbar-toggle {\n\
+		border-color: $bgHighlight;\n\
+		&:hover, &:focus {\n\
+			background-color: $bgHighlight; }\n\
+		.icon-bar {\n\
+			background-color: $colDefault; }}\n\
+	.navbar-collapse,\n\
+	.navbar-form {\n\
+		border-color: $colDefault; }\n\
+	.navbar-link {\n\
+		color: $colDefault;\n\
+		&:hover {\n\
+			color: $colHighlight; }}}\n\
+@media (max-width: 767px) {\n\
+	.navbar-default .navbar-nav .open .dropdown-menu {\n\
+		> li > a {\n\
+			color: $colDefault;\n\
+			&:hover, &:focus {\n\
+				color: $colHighlight; }}\n\
+		> .active {\n\
+			> a, > a:hover, > a:focus, {\n\
+				color: $colHighlight;\n\
+				background-color: $bgHighlight; }}}\n\
+}');
+
+				$('#sass pre').html('$bgDefault      : '+bd+'\n\
+$bgHighlight    : '+bh+'\n\
+$colDefault     : '+cd+'\n\
+$colHighlight   : '+ch+'\n\
+.navbar-default \n\
+	background-color: $bgDefault\n\
+	border-color: $bgHighlight\n\
+	.navbar-brand \n\
+		color: $colDefault\n\
+		&:hover, &:focus \n\
+			color: $colHighlight\n\
+	.navbar-text \n\
+		color: $colDefault\n\
+	.navbar-nav \n\
+		> li \n\
+			> a \n\
+				color: $colDefault\n\
+				&:hover,  &:focus \n\
+					color: $colHighlight\n\
+		> .active \n\
+			> a, > a:hover, > a:focus \n\
+				color: $colHighlight\n\
+				background-color: $bgHighlight \n\
+		> .open \n\
+			> a, > a:hover, > a:focus \n\
+				color: $colHighlight\n\
+				background-color: $bgHighlight \n\
+	.navbar-toggle \n\
+		border-color: $bgHighlight\n\
+		&:hover, &:focus \n\
+			background-color: $bgHighlight \n\
+		.icon-bar \n\
+			background-color: $colDefault\n\
+	.navbar-collapse,\n\
+	.navbar-form \n\
+		border-color: $colDefault \n\
+	.navbar-link \n\
+		color: $colDefault\n\
+		&:hover \n\
+			color: $colHighlight \n\
+@media (max-width: 767px) \n\
+	.navbar-default .navbar-nav .open .dropdown-menu \n\
+		> li > a \n\
+			color: $colDefault\n\
+			&:hover, &:focus \n\
+				color: $colHighlight\n\
+		> .active \n\
+			> a, > a:hover, > a:focus, \n\
+				color: $colHighlight\n\
+				background-color: $bgHighlight');
+
+								$('#custom-style, #css pre').html('.navbar-default {\n\
+	background-color: '+bd+';\n\
+	border-color: '+bh+';\n\
+}\n\
+.navbar-default .navbar-brand {\n\
+	color: '+cd+';\n\
+}\n\
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {\n\
+	color: '+ch+';\n\
+}\n\
+.navbar-default .navbar-text {\n\
+	color: '+cd+';\n\
+}\n\
+.navbar-default .navbar-nav > li > a {\n\
+	color: '+cd+';\n\
+}\n\
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {\n\
+	color: '+ch+';\n\
+}\n\
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {\n\
+	color: '+ch+';\n\
+	background-color: '+bh+';\n\
+}\n\
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {\n\
+	color: '+ch+';\n\
+	background-color: '+bh+';\n\
+}\n\
+.navbar-default .navbar-toggle {\n\
+	border-color: '+bh+';\n\
+}\n\
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {\n\
+	background-color: '+bh+';\n\
+}\n\
+.navbar-default .navbar-toggle .icon-bar {\n\
+	background-color: '+cd+';\n\
+}\n\
+.navbar-default .navbar-collapse,\n\
+.navbar-default .navbar-form {\n\
+	border-color: '+cd+';\n\
+}\n\
+.navbar-default .navbar-link {\n\
+	color: '+cd+';\n\
+}\n\
+.navbar-default .navbar-link:hover {\n\
+	color: '+ch+';\n\
+}\n\
+\n\
+@media (max-width: 767px) {\n\
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {\n\
+		color: '+cd+';\n\
+	}\n\
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {\n\
+		color: '+ch+';\n\
+	}\n\
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {\n\
+		color: '+ch+';\n\
+		background-color: '+bh+';\n\
+	}\n\
+}');
+
+				$('#custom-style, #less pre').html('@bgDefault      : '+bd+';\n\
+@bgHighlight    : '+bh+';\n\
+@colDefault     : '+cd+';\n\
+@colHighlight   : '+ch+';\n\
+.navbar-default {\n\
+	background-color: @bgDefault;\n\
+	border-color: @bgHighlight;\n\
+	.navbar-brand {\n\
+		color: @colDefault;\n\
+		&:hover, &:focus { \n\
+			color: @colHighlight; }}\n\
+	.navbar-text {\n\
+		color: @colDefault; }\n\
+	.navbar-nav {\n\
+		> li {\n\
+			> a {\n\
+				color: @colDefault;\n\
+				&:hover,  &:focus {\n\
+					color: @colHighlight; }}}\n\
+		> .active {\n\
+			> a, > a:hover, > a:focus {\n\
+				color: @colHighlight;\n\
+				background-color: @bgHighlight; }}\n\
+		> .open {\n\
+			> a, > a:hover, > a:focus {\n\
+				color: @colHighlight;\n\
+				background-color: @bgHighlight; }}}\n\
+	.navbar-toggle {\n\
+		border-color: @bgHighlight;\n\
+		&:hover, &:focus {\n\
+			background-color: @bgHighlight; }\n\
+		.icon-bar {\n\
+			background-color: @colDefault; }}\n\
+	.navbar-collapse,\n\
+	.navbar-form {\n\
+		border-color: @colDefault; }\n\
+	.navbar-link {\n\
+		color: @colDefault;\n\
+		&:hover {\n\
+			color: @colHighlight; }}}\n\
+@media (max-width: 767px) {\n\
+	.navbar-default .navbar-nav .open .dropdown-menu {\n\
+		> li > a {\n\
+			color: @colDefault;\n\
+			&:hover, &:focus {\n\
+				color: @colHighlight; }}\n\
+		> .active {\n\
+			> a, > a:hover, > a:focus, {\n\
+				color: @colHighlight;\n\
+				background-color: @bgHighlight; }}}\n\
+}');
+			});
+
+			$(document).on('ready', function() {
+				$('#form-generate').trigger('change');
+			})
+
+		</script>
+	</head>
+	<body>
+
+		<header>
+			<div class="container">
+				<img src="./TWBSColor - Generate your own Bootstrap navbar_files/logo-white.png" alt="Monsterflat">
+				<h1><a href="http://twbscolor.smarchal.com/">TWBSColor</a></h1>
+				<h2>Generate your own Bootstrap navbar</h2>
+			</div>
+		</header>
+
+		<section id="main">
+			<div class="container">
+
+				<h1>Select your colors</h1>
+
+				<!-- form -->
+				<form id="form-generate" action="http://twbscolor.smarchal.com/scss?bd=ffffff&bh=7148ff&cd=000000&ch=ffffff#" method="get" class="form-inline text-center">
+					<div class="form-group">
+						<label for="bd">Default background</label>
+						<input type="color" id="bd" name="bd" value="#9b59b6">
+					</div>
+					<div class="form-group">
+						<label for="bh">Active background</label>
+						<input type="color" id="bh" name="bh" value="#8e44ad">
+					</div>
+					<div class="form-group">
+						<label for="cd">Default color</label>
+						<input type="color" id="cd" name="cd" value="#ecf0f1">
+					</div>
+					<div class="form-group">
+						<label for="ch">Active color</label>
+						<input type="color" id="ch" name="ch" value="#ecdbff">
+					</div>
+				</form>
+
+				<!-- sample -->
+				<iframe src="./TWBSColor - Generate your own Bootstrap navbar_files/navbar.html" width="800" height="200">
+					&lt;p&gt;Your browser doesn't support iframes... seriously...&lt;/p&gt;
+				</iframe>
+
+			</div>
+		</section>
+
+		<section id="link">
+			<div class="container text-center">
+				<h1>Bookmark your permalink</h1>
+				<a href="http://twbscolor.smarchal.com/scss?bd=ffffff&bh=0079ff&cd=000000&ch=ffffff" class="permalink">
+					<pre>http://twbscolor.smarchal.com/scss?bd=ffffff&amp;bh=0079ff&amp;cd=000000&amp;ch=ffffff</pre>
+				</a>
+			</div>
+		</section>
+
+		<section id="assets">
+			<div class="container">
+				<h1>Include Bootstrap assets</h1>
+				<pre>//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css
+//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js</pre>
+			</div>
+		</section>
+
+
+		<section id="code">
+			<div class="container">
+				<h1>Copy the generated SCSS/SASS/LESS/CSS</h1>
+
+				<!-- code -->
+				<ul class="nav nav-tabs">
+					<li class="active"><a href="http://twbscolor.smarchal.com/scss?bd=ffffff&bh=7148ff&cd=000000&ch=ffffff#scss" data-toggle="tab">SCSS</a></li>
+					<li><a href="http://twbscolor.smarchal.com/scss?bd=ffffff&bh=7148ff&cd=000000&ch=ffffff#sass" data-toggle="tab">SASS</a></li>
+					<li><a href="http://twbscolor.smarchal.com/scss?bd=ffffff&bh=7148ff&cd=000000&ch=ffffff#less" data-toggle="tab">LESS</a></li>
+					<li><a href="http://twbscolor.smarchal.com/scss?bd=ffffff&bh=7148ff&cd=000000&ch=ffffff#css" data-toggle="tab">CSS</a></li>
+				</ul>
+				<div class="tab-content">
+					<div class="tab-pane active" id="scss">
+						<pre>$bgDefault      : #ffffff;
+$bgHighlight    : #0079ff;
+$colDefault     : #000000;
+$colHighlight   : #ffffff;
+.navbar-default {
+	background-color: $bgDefault;
+	border-color: $bgHighlight;
+	.navbar-brand {
+		color: $colDefault;
+		&amp;:hover, &amp;:focus { 
+			color: $colHighlight; }}
+	.navbar-text {
+		color: $colDefault; }
+	.navbar-nav {
+		&gt; li {
+			&gt; a {
+				color: $colDefault;
+				&amp;:hover,  &amp;:focus {
+					color: $colHighlight; }}}
+		&gt; .active {
+			&gt; a, &gt; a:hover, &gt; a:focus {
+				color: $colHighlight;
+				background-color: $bgHighlight; }}
+		&gt; .open {
+			&gt; a, &gt; a:hover, &gt; a:focus {
+				color: $colHighlight;
+				background-color: $bgHighlight; }}}
+	.navbar-toggle {
+		border-color: $bgHighlight;
+		&amp;:hover, &amp;:focus {
+			background-color: $bgHighlight; }
+		.icon-bar {
+			background-color: $colDefault; }}
+	.navbar-collapse,
+	.navbar-form {
+		border-color: $colDefault; }
+	.navbar-link {
+		color: $colDefault;
+		&amp;:hover {
+			color: $colHighlight; }}}
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav .open .dropdown-menu {
+		&gt; li &gt; a {
+			color: $colDefault;
+			&amp;:hover, &amp;:focus {
+				color: $colHighlight; }}
+		&gt; .active {
+			&gt; a, &gt; a:hover, &gt; a:focus, {
+				color: $colHighlight;
+				background-color: $bgHighlight; }}}
+}</pre>
+					</div>
+					<div class="tab-pane" id="sass">
+						<pre>$bgDefault      : #ffffff
+$bgHighlight    : #0079ff
+$colDefault     : #000000
+$colHighlight   : #ffffff
+.navbar-default 
+	background-color: $bgDefault
+	border-color: $bgHighlight
+	.navbar-brand 
+		color: $colDefault
+		&amp;:hover, &amp;:focus 
+			color: $colHighlight
+	.navbar-text 
+		color: $colDefault
+	.navbar-nav 
+		&gt; li 
+			&gt; a 
+				color: $colDefault
+				&amp;:hover,  &amp;:focus 
+					color: $colHighlight
+		&gt; .active 
+			&gt; a, &gt; a:hover, &gt; a:focus 
+				color: $colHighlight
+				background-color: $bgHighlight 
+		&gt; .open 
+			&gt; a, &gt; a:hover, &gt; a:focus 
+				color: $colHighlight
+				background-color: $bgHighlight 
+	.navbar-toggle 
+		border-color: $bgHighlight
+		&amp;:hover, &amp;:focus 
+			background-color: $bgHighlight 
+		.icon-bar 
+			background-color: $colDefault
+	.navbar-collapse,
+	.navbar-form 
+		border-color: $colDefault 
+	.navbar-link 
+		color: $colDefault
+		&amp;:hover 
+			color: $colHighlight 
+@media (max-width: 767px) 
+	.navbar-default .navbar-nav .open .dropdown-menu 
+		&gt; li &gt; a 
+			color: $colDefault
+			&amp;:hover, &amp;:focus 
+				color: $colHighlight
+		&gt; .active 
+			&gt; a, &gt; a:hover, &gt; a:focus, 
+				color: $colHighlight
+				background-color: $bgHighlight</pre>
+					</div>
+					<div class="tab-pane" id="less">
+						<pre>@bgDefault      : #ffffff;
+@bgHighlight    : #0079ff;
+@colDefault     : #000000;
+@colHighlight   : #ffffff;
+.navbar-default {
+	background-color: @bgDefault;
+	border-color: @bgHighlight;
+	.navbar-brand {
+		color: @colDefault;
+		&amp;:hover, &amp;:focus { 
+			color: @colHighlight; }}
+	.navbar-text {
+		color: @colDefault; }
+	.navbar-nav {
+		&gt; li {
+			&gt; a {
+				color: @colDefault;
+				&amp;:hover,  &amp;:focus {
+					color: @colHighlight; }}}
+		&gt; .active {
+			&gt; a, &gt; a:hover, &gt; a:focus {
+				color: @colHighlight;
+				background-color: @bgHighlight; }}
+		&gt; .open {
+			&gt; a, &gt; a:hover, &gt; a:focus {
+				color: @colHighlight;
+				background-color: @bgHighlight; }}}
+	.navbar-toggle {
+		border-color: @bgHighlight;
+		&amp;:hover, &amp;:focus {
+			background-color: @bgHighlight; }
+		.icon-bar {
+			background-color: @colDefault; }}
+	.navbar-collapse,
+	.navbar-form {
+		border-color: @colDefault; }
+	.navbar-link {
+		color: @colDefault;
+		&amp;:hover {
+			color: @colHighlight; }}}
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav .open .dropdown-menu {
+		&gt; li &gt; a {
+			color: @colDefault;
+			&amp;:hover, &amp;:focus {
+				color: @colHighlight; }}
+		&gt; .active {
+			&gt; a, &gt; a:hover, &gt; a:focus, {
+				color: @colHighlight;
+				background-color: @bgHighlight; }}}
+}</pre>
+					</div>
+					<div class="tab-pane" id="css">
+						<pre>.navbar-default {
+	background-color: #ffffff;
+	border-color: #0079ff;
+}
+.navbar-default .navbar-brand {
+	color: #000000;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+	color: #ffffff;
+}
+.navbar-default .navbar-text {
+	color: #000000;
+}
+.navbar-default .navbar-nav &gt; li &gt; a {
+	color: #000000;
+}
+.navbar-default .navbar-nav &gt; li &gt; a:hover, .navbar-default .navbar-nav &gt; li &gt; a:focus {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav &gt; .active &gt; a, .navbar-default .navbar-nav &gt; .active &gt; a:hover, .navbar-default .navbar-nav &gt; .active &gt; a:focus {
+	color: #ffffff;
+	background-color: #0079ff;
+}
+.navbar-default .navbar-nav &gt; .open &gt; a, .navbar-default .navbar-nav &gt; .open &gt; a:hover, .navbar-default .navbar-nav &gt; .open &gt; a:focus {
+	color: #ffffff;
+	background-color: #0079ff;
+}
+.navbar-default .navbar-toggle {
+	border-color: #0079ff;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #0079ff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #000000;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+	border-color: #000000;
+}
+.navbar-default .navbar-link {
+	color: #000000;
+}
+.navbar-default .navbar-link:hover {
+	color: #ffffff;
+}
+
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav .open .dropdown-menu &gt; li &gt; a {
+		color: #000000;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu &gt; li &gt; a:hover, .navbar-default .navbar-nav .open .dropdown-menu &gt; li &gt; a:focus {
+		color: #ffffff;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu &gt; .active &gt; a, .navbar-default .navbar-nav .open .dropdown-menu &gt; .active &gt; a:hover, .navbar-default .navbar-nav .open .dropdown-menu &gt; .active &gt; a:focus {
+		color: #ffffff;
+		background-color: #0079ff;
+	}
+}</pre>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section id="share">
+			<div class="container">
+				<h1>Find TWBSColor useful ? Share it !</h1>
+				<div id="sharebuttons">
+					<a onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Social&#39;, &#39;Share&#39;, &#39;Facebook&#39;, 1, true]);" href="https://www.facebook.com/sharer/sharer.php?u=http://twbscolor.smarchal.com" target="_blank"><i class="mf-128 mf-facebook"></i></a>
+					<a onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Social&#39;, &#39;Share&#39;, &#39;Twitter&#39;, 1, true]);" href="https://twitter.com/share?url=http://twbscolor.smarchal.com&text=%23TWBSColor%20-%20Generate%20your%20own%20Bootstrap%20navbar.&via=zessx" target="_blank"><i class="mf-128 mf-twitter"></i></a>
+					<a onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Social&#39;, &#39;Share&#39;, &#39;Google Plus&#39;, 1, true]);" href="https://plus.google.com/share?url=http://twbscolor.smarchal.com" target="_blank"><i class="mf-128 mf-googleplus"></i></a>
+					<a onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Social&#39;, &#39;Share&#39;, &#39;Stumbleupon&#39;, 1, true]);" href="http://www.stumbleupon.com/submit?url=http://twbscolor.smarchal.com" target="_blank"><i class="mf-128 mf-stumbleupon"></i></a>
+				</div>
+			</div>
+			<p class="cf"></p>
+		</section>
+
+		<footer>
+			<div class="container">
+				<p>A work by <a href="http://smarchal.com/">Samuel Marchal</a></p>
+				<p><a href="http://twitter.com/zessx">Suggestions, comments, typo ?</a></p><br>
+
+				<a rel="license" href="http://opensource.org/licenses/MIT"><img alt="Licence MIT" style="border-width:0" src="./TWBSColor - Generate your own Bootstrap navbar_files/license-mit.png"></a>
+				<br><br>
+
+
+				<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=KTYWBM9HJMMSE&lc=FR&item_name=Buy%20a%20coffee%20to%20zessx%20%28Samuel%20Marchal%29&currency_code=EUR&bn=PP%2dDonationsBF%3abmac%3aNonHosted" onclick="_gaq.push([&#39;_trackEvent&#39;, &#39;Donate&#39;, &#39;Donate&#39;, &#39;Paypal&#39;, 1, true]);" target="_blank"><img src="./TWBSColor - Generate your own Bootstrap navbar_files/bmac" alt="Buy me a coffee !" style="border-radius:5px" onmouseover="this.style.boxShadow=&#39;0 0 5px #00335e&#39;" onmouseout="this.style.boxShadow=null"></a>
+				<br><br>
+
+				<p class="small">All brand icons are trademarks of their respective owners.<br>The use of these trademarks does not indicate endorsement of the trademark holder by TWBSColor, nor vice versa.</p>
+			</div>
+		</footer>
+	
+</body></html>

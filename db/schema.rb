@@ -18,12 +18,11 @@ ActiveRecord::Schema.define(version: 20140713055650) do
 
   create_table "events", force: true do |t|
     t.integer  "user_id"
-    t.text     "title",             null: false
-    t.text     "theatre",           null: false
+    t.text     "title",       null: false
+    t.text     "theatre",     null: false
     t.text     "movie"
-    t.text     "event_description"
-    t.date     "date"
-    t.time     "time"
+    t.text     "description"
+    t.datetime "date"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

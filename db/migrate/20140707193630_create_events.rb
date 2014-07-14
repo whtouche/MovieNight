@@ -5,9 +5,8 @@ class CreateEvents < ActiveRecord::Migration
       t.text :title, null: false
       t.text :theatre, null: false
       t.text :movie
-      t.text :event_description #remove event_
-      t.date :date
-      t.time :time
+      t.text :description #remove event_
+      t.datetime :date
 
       t.timestamps
     end

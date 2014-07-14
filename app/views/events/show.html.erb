@@ -1,23 +1,24 @@
 <h3><%= @event.title %></h3>
 <br>
-Description: <%= @event.event_description %>
+Description: <%= @event.description %>
 <br>
 Theatre: <%= @event.theatre %>
 <br>
 Movie: <%= @event.movie %>
 <br>
-Date: <%= @event.date %>
+Date: <%= @event.date.strftime("%b %d") %>
 <br>
-Time: <%= @event.time %>
+Time: <%= @event.date.strftime("%l:%M%p") %>
 <br>
-Guest List: <% @event.rsvped_users.each do |user| %>
-            <%= user.email %>
+Organizer: <%= @event.user.email %>
+<br>
+Guest List: <br>
+            <% @event.rsvped_users.each do |guest| %>
+            <%= guest.email %>
+            <br>
             <% end %>
 
-
-
-<% if user_signed_in? && @event.user != current_user %>
+<% if user_signed_in? && @event.user != current_user && current_user %>
 <p> <%= link_to 'Join Event', event_join_path(@event), method: :post  %> </p>
 <% end %>
 <br>
-<%= link_to 'Home', root_path %>

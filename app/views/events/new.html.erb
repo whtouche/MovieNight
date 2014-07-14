@@ -1,8 +1,8 @@
-<h3>New Event Because Whynot</h3>
+<h3>Create a New Movie Night</h3>
 <p>
 <%= form_for @event do |f| %>
-<%= f.text_field :title, placeholder: "Title"%><br>
-<%= f.text_field :event_description, placeholder: "Description" %><br>
+<%= f.text_field :title, placeholder: "Title", required: true %><br>
+<%= f.text_field :description, placeholder: "Description" %><br>
 <%= f.text_field :movie, value: params[:movie_title], readonly: true %><br>
 <%= f.text_field :theatre, value: params[:theatre], readonly: true %><br>
 <%= f.text_field :date, value: params[:date_time], readonly: true %><br>

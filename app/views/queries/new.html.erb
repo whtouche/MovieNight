@@ -7,12 +7,10 @@
   </div>
     <div class="field">
     <%= label_tag :date, 'Date' %><br>
-    <%= text_field_tag :date, nil, placeholder: Date.today %>
+    <%= text_field_tag :date, Date.today %>
   </div>
   <div class="actions">
     <%= submit_tag %>
   </div>
 <% end %>
 <br>
-<%= link_to 'Home', root_path %>
-<!--Use form_tag instead of form_for if get rid of Query model-->
