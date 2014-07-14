@@ -1,8 +1,12 @@
 <% require 'date' %>
 
 <h3><%= @result.title %></h3>
+<%= @result.longDescription %>
+<br>
+<br>
 <% @result.showtimes.each do |showtime| %>
 <%= showtime.theatre.name %>
 <% parsed_time = DateTime.parse(showtime.dateTime).strftime("%b %d, %l:%M%p") %>
 <%= link_to parsed_time, new_event_path(@event, :movie_title => @result.title, :theatre => showtime.theatre.name, :date_time => parsed_time) %><br>
 <% end %>
+

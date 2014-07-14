@@ -1,6 +1,6 @@
 <h3>Choose a Movie</h3>
 <br>
 <% @results.each do |movie| %>
-<%= link_to movie.title, results_path(:zip => @zip, :date => @date, :title => movie.title) %>
-<br>
+  <%= link_to movie.title, results_path(:zip => @zip, :date => @date, :title => movie.title) %>
+  <br>
 <% end %>

@@ -10,5 +10,3 @@ Rails.application.routes.draw do
   #get 'browse', to: 'queries#new'
   root 'home#show'
 end
-
-# Forget about renaming for now, get queries controller working

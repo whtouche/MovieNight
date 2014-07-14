@@ -1,3 +1,8 @@
+<h3>Welcome to Movie Night!</h3>
+<p>
+Below you will find a list of Movie Nights that you have organized or joined.
+<br>
+To create a new Movie Night, click Browse Movies, choose a movie, and then select a showtime.
   <% if user_signed_in? && current_user.rsvps.length > 0 %>
     <h4>Movie Nights</h4>
     <% current_user.rsvps.each do |rsvp| %>
@@ -13,6 +18,8 @@
       <br>
     <% end %>
   <% end %>
+
+
 </p>
 
 
