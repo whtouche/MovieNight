@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
   devise_for :users
 
-  resources :showtimes, only: [:index]
   resources :events do
     post "/join" => "events#join"
     end

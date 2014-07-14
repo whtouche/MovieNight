@@ -1,7 +1,6 @@
 <% require 'date' %>
 
 <h3><%= @result.title %></h3>
-Genres: <%= @result.genres %>
 <% @result.showtimes.each do |showtime| %>
 <%= showtime.theatre.name %>
 <% parsed_time = DateTime.parse(showtime.dateTime).strftime("%b %d, %l:%M%p") %>

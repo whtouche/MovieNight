@@ -3,18 +3,19 @@
 <br>
 <%= link_to 'Browse Events', events_path(@events) %>
 <p>
-<% if user_signed_in? %>
-<h4>Joined Events</h4>
-<% current_user.rsvps.each do |rsvp| %>
-<%= rsvp.event.title %>
-<br>
-<% end %>
-<h4>Created Events</h4>
-<% current_user.events.each do |event| %>
-<%= event.title %>
-<br>
-<% end %>
-<% end %>
+  <% if user_signed_in? %>
+    <h4>Joined Events</h4>
+    <% current_user.rsvps.each do |rsvp| %>
+      <%= link_to rsvp.event.title, event_path(rsvp.event.id) %>
+      <br>
+    <% end %>
+    <br>
+    <h4>Created Events</h4>
+    <% current_user.events.each do |event| %>
+      <%= link_to event.title, event_path(event.id) %>
+      <br>
+    <% end %>
+  <% end %>
 </p>
 
 

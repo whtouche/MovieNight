@@ -7,7 +7,7 @@
   </div>
     <div class="field">
     <%= label_tag :date, 'Date' %><br>
-    <%= text_field_tag :date, nil, placeholder: "YYY-MM-DD" %>
+    <%= text_field_tag :date, nil, placeholder: Date.today %>
   </div>
   <div class="actions">
     <%= submit_tag %>
