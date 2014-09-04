@@ -34,6 +34,9 @@ GEM
       thread_safe (~> 0.3, >= 0.3.1)
     bcrypt (3.1.7)
     builder (3.2.2)
+    bullet (4.13.1)
+      activesupport (>= 3.0.0)
+      uniform_notifier (>= 1.6.0)
     coderay (1.1.0)
     coercible (1.0.0)
       descendants_tracker (~> 0.0.1)
@@ -161,6 +164,7 @@ GEM
     uglifier (2.5.1)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    uniform_notifier (1.6.2)
     virtus (1.0.2)
       axiom-types (~> 0.1)
       coercible (~> 1.0)
@@ -173,6 +177,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bullet
   coffee-rails (~> 4.0.0)
   devise
   dotenv-rails
