@@ -14,5 +14,8 @@
   height: 100vh;
 }
 
+.navbar-header{
+  height: 70px;
+}
 
 /*vertical-align:middle;*/

@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<title><%= content_for?(:title) ? yield(:title) : "Movie Night" %></title>
+<title>Movie Night</title>
 
 <%= stylesheet_link_tag    "application" %>
 <%= javascript_include_tag "vendor/modernizr" %>
@@ -25,44 +25,37 @@
   <body>
 
 
-    <div class="row">
-      <div class="small-6 large-centered columns"></div>
+    <nav class="navbar navbar-default" role="navigation">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
 
-      <nav class="top-bar" data-topbar role="navigation">
-        <ul class="title-area">
-          <li class="name">
-            <h1><a href="#">Movie Night</a></h1>
-          </li>
+          <ul class="nav navbar-nav">
+          <li><a href="/">Movie Night</a></li>
+          <li><a href="/queries/new">Browse Movies</a></li>
+          <li><a href="/events">Browse Movie Nights</a></li>
         </ul>
-
-        <section class="top-bar-section">
-          <!-- Right Nav Section -->
-          <ul class="right">
-          </ul>
-
-          <!-- Left Nav Section -->
-          <ul class="left">
-            <li><a href="/queries/new">Browse Movies</a></li>
-            <li><a href="/events">Browse Movie Nights</a></li>
-          </ul>
-        </section>
-      </nav>
-      <% if user_signed_in? %>
-      Signed in as <%= current_user.email %>
-      | <%= link_to 'Sign out', destroy_user_session_path, method: :delete %>
-      <% else %>
-      <%= link_to 'Sign in', new_user_session_path %> | <%= link_to 'Sign up', new_user_registration_path %>
-      <% end %>
-      <% if notice %>
-      <%= notice %>
-      <% end %>
-      <div class="container">
-        <%= javascript_include_tag "application" %>
-        <%= yield %>
       </div>
 
+      <!-- Collect the nav links, forms, and other content for toggling -->
+
+    </nav>
+
+
+    <% if user_signed_in? %>
+    Signed in as <%= current_user.email %>
+    | <%= link_to 'Sign out', destroy_user_session_path, method: :delete %>
+    <% else %>
+    <%= link_to 'Sign in', new_user_session_path %> | <%= link_to 'Sign up', new_user_registration_path %>
+    <% end %>
+    <% if notice %>
+    <%= notice %>
+    <% end %>
+    <div class="container">
+      <%= javascript_include_tag "application" %>
+      <%= yield %>
     </div>
 
+</div>
 
   </body>
 </div>
