@@ -1,3 +1,4 @@
+
 <h3>Welcome to Movie Night!</h3>
 <p>
 Below you will find a list of Movie Nights that you have organized or joined.
@@ -14,9 +15,11 @@ To create a new Movie Night, click Browse Movies, choose a movie, and then selec
     <% if user_signed_in? && current_user.events.length > 0 %>
     <h4>Movie Nights Organized</h4>
     <% current_user.events.each do |event| %>
+    <% unless event.date < Time.now %>
       <%= link_to event.title, event_path(event.id) %>
       <br>
     <% end %>
+  <% end %>
   <% end %>
 
 

@@ -1,4 +1,50 @@
-<h3>Movie Nights</h3>
-<%= render partial: "event", collection: @events %>
-<br>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
 
+<h3>Upcoming Movie Nights</h3>
+
+<table style="width:100%">
+  <tr>
+    <th><%= sortable "date" %></th>
+    <th><%= sortable "date", "Time" %></th>
+    <th><%= sortable "theatre" %></th>
+    <th><%= sortable "title" %></th>
+    <th><%= sortable "movie" %></th>
+
+  <% @events.each do |event| %>
+  <% unless event.date < Time.now %>
+  </tr>
+  <td><%= event.date.strftime("%b %d") %> </td>
+  <td><%= event.date.strftime("%l:%M%p") %> </td>
+  <td><%= event.theatre %> </td>
+  <td><%= link_to(event.title, event_path(event.id)) %> </td>
+  <td><%= event.movie %> </td>
+  </tr>
+  <% end %>
+  <% end %>
+</table>
+
+<h3>Past Movie Nights</h3>
+<table style="width:100%">
+  <tr>
+    <th><%= sortable "date" %></th>
+    <th><%= sortable "date", "Time" %></th>
+    <th><%= sortable "theatre" %></th>
+    <th><%= sortable "title" %></th>
+    <th><%= sortable "movie" %></th>
+
+  <% @events.each do |event| %>
+  <% if event.date < Time.now %>
+  </tr>
+  <td><%= event.date.strftime("%b %d") %> </td>
+  <td><%= event.date.strftime("%l:%M%p") %> </td>
+  <td><%= event.theatre %> </td>
+  <td><%= link_to(event.title, event_path(event.id)) %> </td>
+  <td><%= event.movie %> </td>
+  </tr>
+  <% end %>
+  <% end %>
+</table>

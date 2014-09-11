@@ -1,49 +1,70 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>MovieNight</title>
-  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= stylesheet_link_tag '//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' %>
-  <%= javascript_include_tag '//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js' %>
-  <%= csrf_meta_tags %>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title><%= content_for?(:title) ? yield(:title) : "Movie Night" %></title>
+
+<%= stylesheet_link_tag    "application" %>
+<%= javascript_include_tag "vendor/modernizr" %>
+<%= csrf_meta_tags %>
 </head>
-<body>
 
-    <nav class="navbar navbar-default" role="navigation">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">MovieNight</a>
-      </div>
 
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
+<div id="bodydiv" class="bodydiv">
+  <body>
+
+
+  <div class="row">
+  <div class="small-6 large-centered columns"></div>
+
+    <nav class="top-bar" data-topbar role="navigation">
+      <ul class="title-area">
+        <li class="name">
+          <h1><a href="/">Movie Night</a></h1>
+        </li>
+      </ul>
+
+      <section class="top-bar-section">
+        <!-- Right Nav Section -->
+        <ul class="right">
+        </ul>
+
+        <!-- Left Nav Section -->
+        <ul class="left">
           <li><a href="/queries/new">Browse Movies</a></li>
           <li><a href="/events">Browse Movie Nights</a></li>
-
+        </ul>
+      </section>
     </nav>
-
-
-<% if user_signed_in? %>
-     Signed in as <%= current_user.email %>
+    <% if user_signed_in? %>
+    Signed in as <%= current_user.email %>
     | <%= link_to 'Sign out', destroy_user_session_path, method: :delete %>
-  <% else %>
+    <% else %>
     <%= link_to 'Sign in', new_user_session_path %> | <%= link_to 'Sign up', new_user_registration_path %>
-  <% end %>
+    <% end %>
+    <% if notice %>
+    <%= notice %>
+    <% end %>
+    <div class="container">
+      <%= javascript_include_tag "application" %>
+      <%= yield %>
+    </div>
 
-<% if notice %>
-<%= notice %>
-<% end %>
-<div class="container">
-<%= yield %>
 </div>
 
-</body>
+  </body>
+</div>
+
+
 </html>
+
+
+
+
+
+
+
+
+
