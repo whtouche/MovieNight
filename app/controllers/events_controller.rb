@@ -1,6 +1,8 @@
 class EventsController < ApplicationController
+  helper_method :sort_column, :sort_direction
+
   def index
-    @events = Event.all
+    @events = Event.order(sort_column + " " + sort_direction)
   end
 
   def show
@@ -36,5 +38,13 @@ class EventsController < ApplicationController
   def event_params
     params.require(:event).permit(:title, :description, :movie, :theatre,
       :date)
+  end
+
+  def sort_column
+    Event.column_names.include?(params[:sort]) ? params[:sort] : "date"
+  end
+
+  def sort_direction
+    %w[asc desc].include?(params[:direction]) ? params[:direction] : "asc"
   end
 end
