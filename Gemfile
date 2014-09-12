@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'foundation-rails'
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
 
 gem "bullet", :group => "development"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
