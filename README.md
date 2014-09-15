@@ -1,4 +1,4 @@
-#Movie Night
+<h1>Movie Night</h1>
 
 http://its-movie-night.herokuapp.com/
 
@@ -6,27 +6,24 @@ http://its-movie-night.herokuapp.com/
 
 Once your event is created, other users will be able to see and join it when they click "Browse Movie Nights."
 
-##Installation
+<h2>Installation</h2>
 
 Designed as a Ruby on Rails app, Movie Night takes advantage of the [TMS] API for local movie data which is used to create events. You will have to obtain your own key. To get started, clone the repo and run:
 
-```
+
 $ rake db:create
-```
+
 to create the database, and then:
-```
+
 $ bundle
-```
+
 and then migrate the database:
-```
+
 $ rake db:migrate
-```
 
-As long as you have obtained a [TMS] API key and added it to the initializer you should be ready to go.
 
-###Notes
-This project was scoped and implemented in one week as my first project for [General Assembly]'s [Web Development Immersive] program. I keep a list of features I would like to eventually implement and look forward to coming back to and improving this project.
+As long as you have obtained a <a href="http://developer.tmsapi.com/io-docs">TMS</a> API key and added it to the initializer you should be ready to go.
 
-[TMS]:http://developer.tmsapi.com/io-docs
-[General Assembly]:https://generalassemb.ly/
-[Web Development Immersive]:https://generalassemb.ly/education/web-development-immersive
+<h3>Notes</h3>
+This project was scoped and implemented in one week as my first project for <a href="https://generalassemb.ly/">General Assembly</a>'s <a href="https://generalassemb.ly/education/web-development-immersive">Web Development Immersive</a> program. I keep a list of features I would like to eventually implement and look forward to coming back to and improving this project.
+
