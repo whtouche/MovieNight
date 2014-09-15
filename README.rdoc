@@ -6,8 +6,8 @@ http://its-movie-night.herokuapp.com/
 
 Once your event is created, other users will be able to see and join it when they click "Browse Movie Nights."
 
-Installation
---------------
+##Installation
+
 Designed as a Ruby on Rails app, Movie Night takes advantage of the [TMS] API for local movie data which is used to create events. You will have to obtain your own key. To get started, clone the repo and run:
 
 ```
@@ -24,7 +24,7 @@ $ rake db:migrate
 
 As long as you have obtained a [TMS] API key and added it to the initializer you should be ready to go.
 
-##Notes
+###Notes
 This project was scoped and implemented in one week as my first project for [General Assembly]'s [Web Development Immersive] program. I keep a list of features I would like to eventually implement and look forward to coming back to and improving this project.
 
 [TMS]:http://developer.tmsapi.com/io-docs
