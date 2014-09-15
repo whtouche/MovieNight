@@ -1,28 +1,33 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Movie Night
+===========
+http://its-movie-night.herokuapp.com/
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Movie Night is a social movie discovery and event planning app. Users can create accounts, put in a date and a zip code and chose from a list of movies playing in a five mile radius. This will bring you to a page with a description of the movie and a list of showtimes on the date you chose. Clicking a showtime will bring you to the event create page where you can give your event a title and a description.
+
+Once your event is created, other users will be able to see and join it when they click "Browse Movie Nights."
+
+Installation
+--------------
+Designed as a Ruby on Rails app, Movie Night takes advantage of the [TMS] API for local movie data which is used to create events. You will have to obtain your own key. To get started, clone the repo and run:
+
+```sh
+$ rake db:create
+```
+to create the database, and then:
+```sh
+$ bundle
+```
+and then migrate the database:
+```sh
+$ rake db:migrate
+```
+
+As long as you have obtained a [TMS] API key and added it to the initializer you should be ready to go.
+
+##Notes
+This project was scoped and implemented in one week as my first project for [General Assembly]'s [Web Development Immersive] program. I keep a list of features I would like to eventually implement and look forward to coming back to and improving this project.
+
+[TMS]:http://developer.tmsapi.com/io-docs
+[General Assembly]:https://generalassemb.ly/
+[Web Development Immersive]:https://generalassemb.ly/education/web-development-immersive
