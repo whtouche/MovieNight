@@ -15,7 +15,7 @@ table, th, td {
     <th><%= sortable "movie" %></th>
 
   <% @events.each do |event| %>
-  <% unless event.date < Time.now %>
+  <% unless event.date < (Time.now - 1.day)%>
   </tr>
   <td><%= event.date.strftime("%b %d") %> </td>
   <td><%= event.date.strftime("%l:%M%p") %> </td>
